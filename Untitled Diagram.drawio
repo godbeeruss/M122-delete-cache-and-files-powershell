@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T09:37:56.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="9Yj4Xy7maTLa3wgzTZpN" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T09:45:53.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="5EUNNO3bNB5Tl1xJKFM9" version="15.9.4" type="github">
   <diagram id="-BDTeBijwdTVi4fhLwuw" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,38 @@
         <mxCell id="tZaITLDV00XNWz6PWwAZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tZaITLDV00XNWz6PWwAZ-1" target="tZaITLDV00XNWz6PWwAZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZaITLDV00XNWz6PWwAZ-1" value="Cache Files &amp;amp; leere Ordner löschen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZaITLDV00XNWz6PWwAZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tZaITLDV00XNWz6PWwAZ-2" target="tZaITLDV00XNWz6PWwAZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tZaITLDV00XNWz6PWwAZ-2" target="tZaITLDV00XNWz6PWwAZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-2" value="Ist der Ordner leer&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-5" value="&lt;span&gt;Cache Files &amp;amp; leere Ordner löschen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tZaITLDV00XNWz6PWwAZ-6" target="tZaITLDV00XNWz6PWwAZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-6" value="Ja" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tZaITLDV00XNWz6PWwAZ-7" target="tZaITLDV00XNWz6PWwAZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-7" value="Nein" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-8" value="Inhalt löschen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-14" value="lassen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
