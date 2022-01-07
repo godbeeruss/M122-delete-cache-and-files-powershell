@@ -10,8 +10,8 @@ Wichtig hier ist die Anwendung als Administrator auszuführen, damit man alle Fu
 
 Hier gilt die gleiche Regen wie bei Windows. Das einzige was man beachten muss ist der **Pfad**. Den muss man immer **ändern** !
 
-## Reccourcen / zum löschen von leeren Ordner
+## Ressourcen / zum löschen von leeren Ordner
 
-[I'm an inline-style link](https://www.linetwork.de/ordner-powershell-erstellen-loeschen/)
+[leeren Ordner Tutorial](https://www.linetwork.de/ordner-powershell-erstellen-loeschen/)
 
-## Reccourcen / zum löschen von Caches
+## Ressourcen / zum löschen von Caches
