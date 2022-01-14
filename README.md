@@ -9,9 +9,3 @@ Wichtig hier ist die Anwendung als Administrator auszuführen, damit man alle Fu
 ## Verwendung / MAC
 
 Hier gilt die gleiche Regen wie bei Windows. Das einzige was man beachten muss ist der **Pfad**. Den muss man immer **ändern** !
-
-## Ressourcen / zum löschen von leeren Ordner
-
-[leeren Ordner Tutorial](https://www.linetwork.de/ordner-powershell-erstellen-loeschen/)
-
-## Ressourcen / zum löschen von Caches
