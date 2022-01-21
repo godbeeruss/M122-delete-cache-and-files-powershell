@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T09:29:22.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.2" etag="f2Z62tcC-mBiVQzVw75z" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T09:30:10.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.2" etag="uMmtr-G0Ke709KpKReYO" type="github">
   <diagram id="-BDTeBijwdTVi4fhLwuw" name="Page-1">
-    <mxGraphModel dx="728" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZaITLDV00XNWz6PWwAZ-5" value="&lt;span&gt;Cache Files &amp;amp; leere Ordner löschen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-5" value="&lt;span&gt;Cache / Files &amp;amp; leere Ordner löschen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="50" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZaITLDV00XNWz6PWwAZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -45,7 +45,7 @@
         <mxCell id="tZaITLDV00XNWz6PWwAZ-14" value="&lt;font color=&quot;#000000&quot;&gt;löschen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZaITLDV00XNWz6PWwAZ-17" value="&lt;span&gt;Cache Files&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tZaITLDV00XNWz6PWwAZ-17" value="&lt;span&gt;Cache &amp;amp; Files&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="120" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZaITLDV00XNWz6PWwAZ-18" value="&lt;span&gt;Leere Ordner löschen&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
