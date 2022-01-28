@@ -52,6 +52,7 @@ Set-Location “C:\Windows\Temp”
 	Remove-Item * -Recurse -Force -ErrorAction SilentlyContinue
 ```
 In der ersten Zeile hab ich den Pfad bestummen. Mit "Remove-Item" habe ich die Datein im Ordner gelösscht. 
+SilentlyContinue heisst nichts anderes als die Warnung zu unterdrücken und die Ausführung fortzusetzen.
 
 ## Vortführung & Verbesserung / Code
 
